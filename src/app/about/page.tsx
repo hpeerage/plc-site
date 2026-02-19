@@ -81,8 +81,8 @@ export default function AboutPage() {
                                             대신 제겐 새로운 질문들이 생겼습니다.
                                         </p>
                                         <blockquote className="border-l-4 border-gold-accent pl-6 py-2 italic text-gray-600 bg-white rounded-r-lg shadow-sm">
-                                            "세상과 구별되는 빛과 소금으로 살라고 하셨는데<br />
-                                            구체적인 삶의 현장에서 크리스천은 어떻게 살아야 할까."
+                                            &quot;세상과 구별되는 빛과 소금으로 살라고 하셨는데<br />
+                                            구체적인 삶의 현장에서 크리스천은 어떻게 살아야 할까.&quot;
                                         </blockquote>
                                         <p>
                                             삶에서 마주하는 선택의 순간들에 세상과 같은 선택을 한다면 그건 크리스천이라 할 수 없을 텐데 크리스천다운 가치를 담은 구체적인 판단기준은 무엇일까.

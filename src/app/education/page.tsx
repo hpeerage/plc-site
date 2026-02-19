@@ -105,8 +105,8 @@ export default function EducationPage() {
                 <div className="container mx-auto px-4 text-center">
                     <FadeIn>
                         <p className="text-xl md:text-3xl font-bold leading-relaxed">
-                            "마땅히 행할 길을 아이에게 가르치라<br />
-                            그리하면 늙어도 그것을 떠나지 아니하리라"
+                            &quot;마땅히 행할 길을 아이에게 가르치라<br />
+                            그리하면 늙어도 그것을 떠나지 아니하리라&quot;
                         </p>
                         <p className="mt-6 text-gold-accent font-medium">
                             잠언 22장 6절
